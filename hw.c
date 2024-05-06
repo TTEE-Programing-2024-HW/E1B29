@@ -48,7 +48,7 @@ scanf("%s",&pig);
 if(pig==A)
 
 
-
+//
 system("cls");
 if(pig==a)
 printf("sds");
